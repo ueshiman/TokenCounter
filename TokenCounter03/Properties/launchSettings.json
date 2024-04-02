@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TokenCounter03": {
+      "commandName": "Project",
+      "commandLineArgs": "data/坊っちゃん.txt"
+    }
+  }
+}
